@@ -6,6 +6,7 @@ Here all the steps and git bash code snippet are discussed shortly but I tried t
 ###1. To set name and email address for a repo
 
 git config --global user.name "minhajulabadin"
+
 git config --global user.email "web.minhajul.abadin@gmail.com"
 ###1.1. To see current username and email info
 
